@@ -1,2 +1,19 @@
-# Auto-Text-Sender
-A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse &amp; keyboard with  pyautogui module :")
+# Module Name :
+
+```
+pyautogui
+
+```
+
+Installation Process :
+
+```
+pip install pyautogui
+
+```
+
+Source Code :
+
+```
+
+```
